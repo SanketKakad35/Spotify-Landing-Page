@@ -17,4 +17,4 @@ This project is a simple web-based UI clone of the Spotify Web Player. It is bui
 ## File Structure  
 
 
-Live Link =
+Live Link = https://sanketkakad35.github.io/Spotify-Landing-Page/
